@@ -3,4 +3,4 @@ nginx:1.27.2
 ollama/ollama:0.6.2
 hello-world
 nacos/nacos-server:v2.4.3
-java:8
+centos:7
